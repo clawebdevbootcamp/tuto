@@ -3,4 +3,6 @@
 ### Web Development Bootcamp
 ## Rebase
 ## Rebase
+## commit 1
+## commit 2
 ## Diverged commit
